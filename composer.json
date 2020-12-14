@@ -21,7 +21,7 @@
         "friendsofphp/php-cs-fixer": "^2.16",
         "nunomaduro/phpinsights": "^1.14",
         "phpmetrics/phpmetrics": "^2.6",
-        "phpstan/extension-installer": "^1.0",
+        "phpstan/extension-installer": "^1.1",
         "phpstan/phpstan": "^0.12",
         "phpstan/phpstan-phpunit": "^0.12",
         "phpstan/phpstan-strict-rules": "^0.12",
