@@ -18,7 +18,7 @@
     },
     "require-dev": {
         "cedx/coveralls": "^11.2",
-        "friendsofphp/php-cs-fixer": "^2.16",
+        "friendsofphp/php-cs-fixer": "^2.19",
         "nunomaduro/phpinsights": "^1.14",
         "phpmetrics/phpmetrics": "^2.6",
         "phpstan/extension-installer": "^1.0",
